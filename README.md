@@ -53,7 +53,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Five Particle Pauli Crystal][N6PauliCrystal]](https://example.com)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -149,3 +149,4 @@ Project Link: [https://github.com/ahmedD67/Pauli-Crystals/](https://github.com/a
 [Numpy-url]: https://numpy.org/
 [SciPy-logo]: https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white
 [SciPy-url]: https://scipy.org/
+[N6PauliCrystal]: N5CircularPauli.png
