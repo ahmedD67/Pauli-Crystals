@@ -55,16 +55,9 @@
 
 [![Five Particle Pauli Crystal][N6PauliCrystal]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Pauli Crystals provide a spatial representation of the internal structure of a system of fermions in a 2D potential well. These crystals were frist hypothesized and simulated in Nov. 2015 by M Gajda et al. Experimental results were later confirmed in Jan 2021 by S. Jochim et al. A given 2D potential will admit a set of occupiable quantum states. When multiple fermionic particles are trapped in such a potential, each particle will occupy one of the quantum states with a corresponding wavefunction. The joint wavefunction for all the particles is given by the Slater determinant, whose absolute squared value is used as a probability density function (p.d.f).
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+The implementation of the MonteCarlo and Metropolis Hastings algorithms are used to generate a sample of 2N-dimensional position vectors for the particles in the trap. Each vector in the sample is rotated about the origin to align it as best as possible with the maximum probability vector. Doing so yields a new modified sample which results in a 2D histogram corresponding to the crystals generated.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,23 +78,11 @@ The two main libraries used in this project for the purposes of data manipulatio
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To try this out, simply download the script and run it locally.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+At the moment, this script is exclusively useful in generating crystals belonging to two dimensional harmonic potentials with a deformation factor.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,15 +91,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+- [x] Add Circular Potential
+- [x] Add Elliptical Potential
+- [ ] Add Eigenstate solver
+- [ ] Add 3D Spherical Potential
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
