@@ -59,9 +59,6 @@ Pauli Crystals provide a spatial representation of the internal structure of a s
 
 The implementation of the MonteCarlo and Metropolis Hastings algorithms are used to generate a sample of 2N-dimensional position vectors for the particles in the trap. Each vector in the sample is rotated about the origin to align it as best as possible with the maximum probability vector. Doing so yields a new modified sample which results in a 2D histogram corresponding to the crystals generated.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -71,7 +68,7 @@ The two main libraries used in this project for the purposes of data manipulatio
 * [![Scipy][SciPy-logo]][SciPy-url]
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -84,7 +81,7 @@ To try this out, simply download the script and run it locally.
 
 At the moment, this script is exclusively useful in generating crystals belonging to two dimensional harmonic potentials with a deformation factor.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -96,7 +93,7 @@ At the moment, this script is exclusively useful in generating crystals belongin
 - [ ] Add Eigenstate solver
 - [ ] Add 3D Spherical Potential
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -105,19 +102,12 @@ At the moment, this script is exclusively useful in generating crystals belongin
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
 No, don't reach out.
 
 Project Link: [https://github.com/ahmedD67/Pauli-Crystals/](https://github.com/ahmedD67/Pauli-Crystals/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
