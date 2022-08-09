@@ -112,7 +112,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ahmed Dabbous - ahmeddabbous67@gmail.com
+No, don't reach out.
 
 Project Link: [https://github.com/ahmedD67/Pauli-Crystals/](https://github.com/ahmedD67/Pauli-Crystals/)
 
