@@ -72,10 +72,11 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+The two main libraries used in this project for the purposes of data manipulation.
 
-* [![Numpy]
-* [![Scipy]
+* [![Numpy][Numpy-logo]][Numpy-url]
+* [![Scipy][SciPy-logo]][SciPy-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,5 +145,7 @@ Project Link: [https://github.com/ahmedD67/Pauli-Crystals/](https://github.com/a
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Numpy-logo]((https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white))
+![Numpy-url](https://numpy.org/)
+![SciPy-logo](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![SciPy-url](https://scipy.org/)
