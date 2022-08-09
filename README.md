@@ -145,7 +145,7 @@ Project Link: [https://github.com/ahmedD67/Pauli-Crystals/](https://github.com/a
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-![Numpy-logo]((https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white))
-![Numpy-url](https://numpy.org/)
-![SciPy-logo](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![SciPy-url](https://scipy.org/)
+[Numpy-logo]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
+[Numpy-url]: https://numpy.org/
+[SciPy-logo]: https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white
+[SciPy-url]: https://scipy.org/
