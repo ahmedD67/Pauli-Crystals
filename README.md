@@ -21,7 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="[https://github.com/ahmedD67/Pauli-Crystals/blob/main/image1.png](https://github.com/ahmedD67/Pauli-Crystals/blob/main/image1.png?raw=true)">
+  <a href="https://github.com/ahmedD67/Pauli-Crystals/blob/main/image1.png?raw=true">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
